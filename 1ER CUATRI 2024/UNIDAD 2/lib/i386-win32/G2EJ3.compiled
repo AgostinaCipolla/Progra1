@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.2.2\bin\i386-win32\fpc.exe" Date="1411536590"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq &quot;-FiD:\Mis documentos\Escritorio\AGOS\PROGRA 1\1ER CUATRI 2024\UNIDAD 2\lib\i386-win32&quot; &quot;-FuD:\Mis documentos\Escritorio\AGOS\PROGRA 1\1ER CUATRI 2024\UNIDAD 2\&quot; &quot;-FUD:\Mis documentos\Escritorio\AGOS\PROGRA 1\1ER CUATRI 2024\UNIDAD 2\lib\i386-win32\&quot; &quot;-FED:\Mis documentos\Escritorio\AGOS\PROGRA 1\1ER CUATRI 2024\UNIDAD 2\&quot; &quot;-oD:\Mis documentos\Escritorio\AGOS\PROGRA 1\1ER CUATRI 2024\UNIDAD 2\G2EJ3.exe&quot; G2EJ3.lpr"/>
+</CONFIG>
