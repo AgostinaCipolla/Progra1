@@ -1,0 +1,4 @@
+agosti 3 4 5
+milo   4 10 3
+agoss  9 8 7
+miloo  1 1 1
