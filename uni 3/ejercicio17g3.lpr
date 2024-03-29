@@ -25,10 +25,10 @@ begin
                PrecioTotal:= PrecioTotal + (precio*0.9);
                acumdesc:=acumdesc+ (precio*0.1);
                contdesc:=contdesc+1;
-								end
-								else
-                PrecioTotal:= PrecioTotal + precio;
-						end;
+	end
+	else
+              PrecioTotal:= PrecioTotal + precio;
+        end;
           if contdesc=N then
            solooferta:=solooferta+1;
           writeln('el precio final es ' , preciototal:3:2 , ' y el descuento total ' , acumdesc:3:2);
