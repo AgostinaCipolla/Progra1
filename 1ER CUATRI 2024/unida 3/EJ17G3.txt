@@ -1,0 +1,7 @@
+nombre1    3
+100 S
+200 N
+300 S
+nombre2    2
+400 S
+500 S
